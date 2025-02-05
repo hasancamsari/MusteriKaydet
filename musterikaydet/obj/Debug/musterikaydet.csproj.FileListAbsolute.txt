@@ -1,0 +1,13 @@
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\bin\Debug\musterikaydet.exe.config
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\obj\Debug\musterikaydet.csprojResolveAssemblyReference.cache
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\obj\Debug\musterikaydet.Form1.resources
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\obj\Debug\musterikaydet.Properties.Resources.resources
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\obj\Debug\musterikaydet.csproj.GenerateResource.Cache
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\bin\Debug\musterikaydet.exe
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\bin\Debug\musterikaydet.pdb
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\obj\Debug\musterikaydet.exe
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\obj\Debug\musterikaydet.pdb
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\bin\Debug\musterikaydet.exe.manifest
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\bin\Debug\musterikaydet.application
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\obj\Debug\musterikaydet.exe.manifest
+C:\Users\HONOR\Desktop\vsprograms\musterikaydet\musterikaydet\obj\Debug\musterikaydet.application

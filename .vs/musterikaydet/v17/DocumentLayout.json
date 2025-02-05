@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HONOR\\Desktop\\musterikaydet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095736D9-57DE-4FAC-89E0-D50C84200181}|musterikaydet\\musterikaydet.csproj|c:\\users\\honor\\desktop\\musterikaydet\\musterikaydet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{095736D9-57DE-4FAC-89E0-D50C84200181}|musterikaydet\\musterikaydet.csproj|solutionrelative:musterikaydet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HONOR\\Desktop\\musterikaydet\\musterikaydet\\Form1.cs",
+              "RelativeDocumentMoniker": "musterikaydet\\Form1.cs",
+              "ToolTip": "C:\\Users\\HONOR\\Desktop\\musterikaydet\\musterikaydet\\Form1.cs [Design]",
+              "RelativeToolTip": "musterikaydet\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:37:13.383Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
